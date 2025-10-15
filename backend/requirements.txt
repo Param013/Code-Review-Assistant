@@ -1,0 +1,6 @@
+Flask==2.3.3
+flask-cors==3.0.10
+sqlalchemy==1.4.52
+python-dotenv==1.0.0
+openai==1.31.0
+werkzeug==3.0.0
